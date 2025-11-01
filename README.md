@@ -48,3 +48,27 @@ Bulan 8 → 3%
 5. Menjumlahkan seluruh laba hingga bulan ke-8.
 ### secreenshot
 ![gambar2](SS2.png)
+
+## Latihan3.py
+Penjelasan:
+
+1. Saldo awal: Rp 1.000.000
+
+
+2. Program berjalan dalam loop while True, agar pengguna bisa terus melakukan transaksi.
+
+
+3. Pilihan menu:
+
+1 → Tarik uang
+
+2 → Keluar dari program
+
+
+
+4. Jika saldo tidak cukup atau input tidak valid, akan muncul pesan kesalahan.
+
+
+5. Program otomatis berhenti bila saldo habis.
+### secreenshot
+![gambar3](SS3.png)
